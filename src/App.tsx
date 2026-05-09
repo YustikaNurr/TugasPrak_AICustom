@@ -3,7 +3,7 @@ import ChatWindow from "./components/ChatWindow";
 import ChatInput from "./components/ChatInput";
 import { sendMessage } from "./services/groqService";
 import type { Message } from "./types/Message";
-import chatbotConfig from "./config/chatbotConfig";
+// import chatbotConfig from "./config/chatbotConfig";
 import "./App.css";
 
 function App() {
